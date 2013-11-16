@@ -3,7 +3,7 @@
 
  Date                       Name of the Programmer	Ref to the Frd section/technical doc.		 Description of the code change
  8/5/2013                    Rupesh Bhayana          RSD # 116						 added field to CommodityCode
- 8/5/2013                    Rupesh Bhayana          RSD # 116						 added new nametable to hide certain commodityocde in chooser
+ 8/5/2013                    Rupesh Bhayana2          RSD # 116						 added new nametable to hide certain commodityocde in chooser
  8/5/2013                    Rupesh Bhayana1          RSD # 116						 added integration event to load data for newly added field to CommodityCode
 
 -->
