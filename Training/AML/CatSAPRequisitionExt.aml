@@ -38,8 +38,8 @@
 	29.	Jayashree	  20-03-2013	PO Conversion	
 	30.    Mounika.K       10/06/2013  Issue 193  Added conditions for Additional Charge catalog
 	31. 	IBM Niraj         03/21/2013    Mach1 R5.5 (FRD8.1/TD8.1) Added VAT Registration field in PO print
-	32.    IBM Nandini Bheemaiah	22/08/2013  Q4 2013-RSD114-FDD5.0/TDD1.0    Delete Payment Term from ObjectDuplicate group under ProcureLineItem groupClass
-	33.    IBM Nandini Bheemaiah	28/08/2013  Q4 2013-RSD119-FDD5.0/TDD1.0    Implement OIO Indicator functionality..
+	32.    IBM Nandini BheemaiahM	22/08/2013  Q4 2013-RSD114-FDD5.0/TDD1.0    Delete Payment Term from ObjectDuplicate group under ProcureLineItem groupClass
+	33.    IBM Nandini BheemaiahM	28/08/2013  Q4 2013-RSD119-FDD5.0/TDD1.0    Implement OIO Indicator functionality..
 
 	**********************************************************************************************
 	-->
